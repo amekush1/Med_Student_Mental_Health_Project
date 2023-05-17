@@ -15,7 +15,7 @@ Provide 2 or more concise, specific, and measurable 1-2 line statement that desc
 - A public facing interface (i.e. webpage)
 ## Documentation: 
 #### Database
-&emsp; 
+&emsp; I took the csv file I received from Kaggle and created a database from it using [this code](https://raw.githubusercontent.com/amekush1/BMI8540project/main/BMI8540_project/amekushprojectDB.sql?token=GHSAT0AAAAAACCXSYW2V2RN2WCQO3C6YNCMZDEFCMQ)
 All code should well-documented (i.e. through a README file, user manual, on-line help, or tutorials). Identify any known user documentation delivery formats or standards used.
 
 All code or methods needed to implement the project are included and clearly described in the documentation (such as a README file or homepage)
