@@ -30,7 +30,7 @@
 - Part of the css uses code from Bootstrap [^8].
 - If you would like to install Bootstrap you can use: `npm i bootstrap@5.3.0-alpha3`
 - In order to use the information entered on the website to filter data from the website and provide information back I used PHP code with a Mysqli connection [^9].
-- If you wish to download PHP go the [this link](https://www.php.net/downloads.php).
+- If you wish to download PHP go to [this link](https://www.php.net/downloads.php).
 ## LICENSE:
 #### [MIT License](https://raw.githubusercontent.com/amekush1/BMI8540project/main/LICENSE?token=GHSAT0AAAAAACCXSYW32LICSUU2DWO2ZVFGZDEIBFA)
 ## DATA PROVENANCE: 
