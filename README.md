@@ -27,7 +27,7 @@
 #### Public Facing Interface
 
 ## LICENSE:
-#### 
+#### [MIT License](https://raw.githubusercontent.com/amekush1/BMI8540project/main/LICENSE?token=GHSAT0AAAAAACCXSYW32LICSUU2DWO2ZVFGZDEIBFA)
 ## DATA PROVENANCE: 
 #### I downloaded this data from the Kaggle site [^5]
 #### The research article where this data originated can be found [HERE](https://www.tandfonline.com/doi/full/10.1080/0142159X.2022.2098708) [^6]
