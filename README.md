@@ -3,7 +3,8 @@
 ## ABSTRACT/PURPOSE:
 #### Created a website that can be used to analyze data retreived during a research project that assesses the mental health and empathy of medical students.
 ## PROJECT OBJECTIVES/GOALS: 
-Provide 2 or more concise, specific, and measurable 1-2 line statement that describes the objectives or goals of your project.
+- Create a database with data retrieved during a research project that assessed the mental health, empathy, and burnout of medical students.
+- 
 ## BACKGROUND: 
 #### This project does not require much background in order to understand it. I've provided information directly on the website that will help explain the data and have provided a link to the research paper where this data came from.
 #### I am someone who works in medical education and we are always trying to find ways to make a safe environment for medical students to learn and practice their skills. We want them to fail and learn from their mistakes without worrying they will hurt someone. Understanding a medical students mental health and empathy plays a part in this.
