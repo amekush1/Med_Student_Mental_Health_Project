@@ -4,7 +4,7 @@
 #### Created a website that can be used to analyze data retreived during a research project that assesses the mental health and empathy of medical students.
 ## PROJECT OBJECTIVES/GOALS: 
 - Create a database with data retrieved during a research project that assessed the mental health, empathy, and burnout of medical students.
-- 
+- Create a website so users can extract certain information from the data and view graphs to visualize the data.
 ## BACKGROUND: 
 #### This project does not require much background in order to understand it. I've provided information directly on the website that will help explain the data and have provided a link to the research paper where this data came from.
 #### I am someone who works in medical education and we are always trying to find ways to make a safe environment for medical students to learn and practice their skills. We want them to fail and learn from their mistakes without worrying they will hurt someone. Understanding a medical students mental health and empathy plays a part in this.
@@ -25,7 +25,12 @@
 - If you would like to create your own you can install Matplotlib using: `pip install matplotlib`
 - To download Pandas you will need to follow [these instructions](https://pandas.pydata.org/getting_started.html)
 #### Public Facing Interface
-
+- I used HTML and CSS to create a [website](http://odin.unomaha.edu/~amekush-harter/amekushproject2.php) that explains the data, allows for certain extraction of the data, and provides a graph to visualize the data. 
+- I used the html and css from a codepen site created by Ryan Anderson [^7].
+- Part of the css uses code from Bootstrap [^8].
+- If you would like to install Bootstrap you can use: `npm i bootstrap@5.3.0-alpha3`
+- In order to use the information entered on the website to filter data from the website and provide information back I used PHP code with a Mysqli connection [^9].
+- If you wish to download PHP go the [this link](https://www.php.net/downloads.php).
 ## LICENSE:
 #### [MIT License](https://raw.githubusercontent.com/amekush1/BMI8540project/main/LICENSE?token=GHSAT0AAAAAACCXSYW32LICSUU2DWO2ZVFGZDEIBFA)
 ## DATA PROVENANCE: 
@@ -37,8 +42,9 @@
 - Medical Education Researchers
 - Medical Students
 ## IMPLEMENTATION CONSTRAINTS: 
-#### 
-Describe any items or issues that limited the options available to you when implementing your project.
+- I need more time to learn css in order to make this site more UI/UX friendly. 
+- Ideally, I would like to gain access to another data set from a different research project that measured similar information to compare and contrast.
+- If I had more time with the data I could find new ways to measure and search for new insights.
 ## PRIVACY: 
 #### No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 ## ORIGINALITY: 
@@ -52,3 +58,5 @@ Describe any items or issues that limited the options available to you when impl
 [^5]: https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health
 [^6]: Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney (2022) The relationship between medical students’ empathy, mental health, and burnout: A cross-sectional study, Medical Teacher, 44:12, 1392-1399, DOI: 10.1080/0142159X.2022.2098708
 [^7]: https://codepen.io/ryanaanderson0/pen/qBOVZmr
+[^8]: https://getbootstrap.com/
+[^9]: https://www.php.net/manual/en/book.mysqli.php
