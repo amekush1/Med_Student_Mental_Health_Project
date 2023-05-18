@@ -21,7 +21,7 @@
 - In order to test the script interacting with the database I created this [Bash Shell Script](https://raw.githubusercontent.com/amekush1/BMI8540project/main/BMI8540_project/amekush-harter_project_query.py?token=GHSAT0AAAAAACCXSYW35CMPVAAB6NCXKIXOZDEF6EA). It allows someone to download the script and run it using Python3 [^2]. After referencing the script, you can enter the year you want to see the averages for regarding two Mental Health scores just as a start for testing.
 #### Public Facing Interface
 - I used HTML and CSS to create a [website](http://odin.unomaha.edu/~amekush-harter/amekushproject2.php) that explains the data, allows for certain extraction of the data, and provides a graph to visualize the data. 
-- You can see my code [here](
+- You can see my code [here](https://raw.githubusercontent.com/amekush1/BMI8540project/main/BMI8540_project/amekushproject2.php?token=GHSAT0AAAAAACCXSYW2HYROGAXP3QZENXEEZDFTHUA).
 - I used the html and css from a codepen site created by Ryan Anderson [^7].
 - Part of the css uses code from Bootstrap [^8].
 - If you would like to install Bootstrap you can use: `npm i bootstrap@5.3.0-alpha3`
@@ -42,6 +42,7 @@
 - I need more time to learn css in order to make this site more UI/UX friendly. 
 - Ideally, I would like to gain access to another data set from a different research project that measured similar information to compare and contrast.
 - If I had more time with the data I could find new ways to measure and search for new insights.
+- I was hoping to include a graph on my site but came to realize that matplotlib and pandas were much harder to grasp than I expected. I will need to spend more time practicing with these.
 ## PRIVACY: 
 #### No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 ## ORIGINALITY: 
