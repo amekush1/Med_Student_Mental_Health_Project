@@ -10,7 +10,8 @@
 -- Partners: NONE
 -- 
 -- Sources: 
-
+-- Create a blank table with all fields you are wanting to move from the csv file to the database.
+-- I kept the same names for simplicity
 CREATE TABLE medstu_hlth(
 	id VARCHAR(3) NOT NULL,
 	age INT(2) NOT NULL,
@@ -34,7 +35,7 @@ CREATE TABLE medstu_hlth(
 	mbi_ea INT(2) NOT NULL,
 	PRIMARY KEY (id)
 );
-
+--Load the data from the csv file into the newly created table
 LOAD DATA LOCAL INFILE 'Data Carrard et al. 2022 MedTeach.csv' INTO TABLE medstu_hlth
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
