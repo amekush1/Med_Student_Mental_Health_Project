@@ -27,7 +27,7 @@
 - If you would like to install Bootstrap you can use: `npm i bootstrap@5.3.0-alpha3`
 - In order to use the information entered on the website to filter data from the website and provide information back I used PHP code with a Mysqli connection [^9].
 - If you wish to download PHP go to [this link](https://www.php.net/downloads.php).
-- Header was created using [Adobe Express](https://express.adobe.com/sp).
+- Header was created using Adobe Express [^3].
 ## LICENSE:
 #### [MIT License](https://raw.githubusercontent.com/amekush1/BMI8540project/main/LICENSE?token=GHSAT0AAAAAACCXSYW32LICSUU2DWO2ZVFGZDEIBFA)
 ## DATA PROVENANCE: 
@@ -50,10 +50,9 @@
 ## REFERENCES: 
 [^1]: https://www.mysql.com/
 [^2]: https://www.python.org/
-[^3]: https://matplotlib.org/stable/index.html
-[^4]: https://pandas.pydata.org/
 [^5]: https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health
 [^6]: Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney (2022) The relationship between medical students’ empathy, mental health, and burnout: A cross-sectional study, Medical Teacher, 44:12, 1392-1399, DOI: 10.1080/0142159X.2022.2098708
 [^7]: https://codepen.io/ryanaanderson0/pen/qBOVZmr
 [^8]: https://getbootstrap.com/
 [^9]: https://www.php.net/manual/en/book.mysqli.php
+[^3]: https://express.adobe.com/sp
