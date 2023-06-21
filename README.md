@@ -1,5 +1,5 @@
 # BMI8540project: Medical Student Mental Health & Empathy Database & Website
-[WEBSITE LINK](http://odin.unomaha.edu/~amekush-harter/amekushproject2.php)
+## This website was for a school project so is no longer availble to view but you can still access the code.
 ## ABSTRACT/PURPOSE:
 #### Created a website that can be used to analyze data retreived during a research project that assesses the mental health and empathy of medical students.
 ## PROJECT OBJECTIVES/GOALS: 
